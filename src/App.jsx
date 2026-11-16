@@ -10,6 +10,7 @@ function App() {
   return (
     <>
       <p>Otabek Hasanov</p>
+      <p>2006.02.08</p>
     </>
   )
 }
